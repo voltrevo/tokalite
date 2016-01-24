@@ -1,0 +1,25 @@
+{
+  "name": "tokalite",
+  "version": "0.0.1",
+  "description": "An alternative api for the opentok js library.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voltrevo/tokalite.git"
+  },
+  "keywords": [
+    "opentok",
+    "tokbox",
+    "webrtc",
+    "video"
+  ],
+  "author": "Andrew Morris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/voltrevo/tokalite/issues"
+  },
+  "homepage": "https://github.com/voltrevo/tokalite#readme"
+}

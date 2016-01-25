@@ -45,5 +45,8 @@
     "env": {
       "mocha": true
     }
+  },
+  "dependencies": {
+    "js-base64": "^2.1.9"
   }
 }

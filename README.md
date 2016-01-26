@@ -21,7 +21,7 @@ var tokalite = require('tokalite');
 var token = '(your opentok token)';
 
 Promise.all(
-  tokalite.conect(token),
+  tokalite.connect(token),
   tokalite.createPublisher()
 ).then(function(res) {
   var session = res[0];

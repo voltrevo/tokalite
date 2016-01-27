@@ -1,6 +1,6 @@
 {
   "name": "tokalite",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An alternative api for the opentok js library.",
   "homepage": "https://github.com/voltrevo/tokalite#readme",
   "author": "Andrew Morris",
